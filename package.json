@@ -1,0 +1,9 @@
+{
+  "name": "leavehost-cloud",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Leavehost Cloud panel powered by the Falix Public API v2",
+  "scripts": { "dev": "netlify dev" },
+  "dependencies": { "@netlify/functions": "^3.0.0" },
+  "devDependencies": { "netlify-cli": "^19.0.0" }
+}
